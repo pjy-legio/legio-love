@@ -1,0 +1,20 @@
+{
+  "name": "레지오 마리애 활동보고",
+  "short_name": "레지오 보고",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#141f38",
+  "theme_color": "#141f38",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
